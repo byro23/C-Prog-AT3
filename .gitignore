@@ -1,3 +1,6 @@
 Makefile 
+
 compact_secure_disk.out
-secure_disk/
+
+secure_disk/*
+!foldername/.gitkeep
