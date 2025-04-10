@@ -25,6 +25,7 @@ A C program that acts as a secure mini storage system. Files are stored in a ded
 
 ```bash
 make
+```
 
 ---
 
@@ -32,3 +33,4 @@ make
 
 ```bash
 make clean
+```
